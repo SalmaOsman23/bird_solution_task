@@ -40,6 +40,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 "Login to continue Radio App",
                 style: TextStyle(fontWeight: FontWeight.w400, fontSize: 16),
               ),
+              SizedBox(height: 10,),
               Align(
                 alignment: Alignment.center,
                 child: Padding(
